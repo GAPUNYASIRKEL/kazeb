@@ -1,0 +1,11 @@
+{
+    "token": "OTE2MjgwNjY1NzE1MTM0NDc0.G0uV6A.Q7IWwqcey6QJ7u3b9A1Sl3kV53-mzqlyR_pHnc",
+    "spotifyClientID": "48352c40e87e40b38432db3c6f20a3c2",
+    "spotifyClientSecret": "252af4ad2e1f425c84675875ebe95efd",
+    "lavalink": {
+      "host": "new-york-node-1.vortexcloud.xyz",
+      "port": 9923,
+      "password": "avinan"
+    }
+  }
+  
